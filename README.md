@@ -17,7 +17,7 @@ I'm **Keerthiga TS**, a passionate full-stack web developer with hands-on experi
 
 ## 📂 Projects
 
-### 1. [MegaMart – Full-Stack E-Commerce Website](./MEGAMART_WEBAPP)
+### 1. [MegaMart – Full-Stack E-Commerce Website](./MEGAMART-WEBAPP)
 A complete online shopping platform with cart management, order placement, and admin product management.  
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Cloudinary, Brevo, JWT Authentication  
 **Key Skills:** Full-Stack Development, REST APIs, Authentication, Cloud Integrations
