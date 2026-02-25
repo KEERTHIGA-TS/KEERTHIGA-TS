@@ -36,9 +36,9 @@ Visualizes sorting and pathfinding algorithms with **step-by-step animations** a
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Keerthiga TS](https://www.linkedin.com/in/keerthiga-ts)  
+- LinkedIn: [Keerthiga TS](https://www.linkedin.com/in/keerthiga-t-s-a2160a307)  
 - GitHub: [KEERTHIGA-TS](https://github.com/KEERTHIGA-TS)  
-- Email: your-email@example.com
+- Email: 23cse16keerthigats@gmail.com
 
 ---
 
