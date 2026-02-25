@@ -17,20 +17,20 @@ I'm **Keerthiga TS**, a passionate full-stack web developer with hands-on experi
 
 ## 📂 Projects
 
-### 1. [MegaMart – Online Shopping Platform (MERN Stack)](https://github.com/KEERTHIGA-TS/MEGAMART-WEBAPP.git)
+### 1. [Algorithm Visualizer – Interactive Algorithm Learning and Animation Platform](https://github.com/KEERTHIGA-TS/Algorithm-Visualizer.git)
+Visualizes sorting and pathfinding algorithms with **step-by-step animations** and a **replay feature** for logged-in users.  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication  
+**Key Skills:** React.js, JavaScript, Node.js, Express.js, MongoDB, JWT, Interactive Animations, Dynamic Dashboard
+
+### 2. [MegaMart – Online Shopping Platform (MERN Stack)](https://github.com/KEERTHIGA-TS/MEGAMART-WEBAPP.git)
 A complete online shopping platform with cart management, order placement, and admin product management.  
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Cloudinary, Brevo, JWT Authentication  
 **Key Skills:** Full-Stack Development, REST APIs, Authentication, Cloud Integrations
 
-### 2. [MindMirror – A Personal Journal for Emotional Wellbeing](https://github.com/KEERTHIGA-TS/Mind-Mirror.git)
+### 3. [MindMirror – A Personal Journal for Emotional Wellbeing](https://github.com/KEERTHIGA-TS/Mind-Mirror.git)
 A journaling platform to track moods, write reflective entries, and visualize emotional patterns using charts.  
 **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL, Chart.js  
 **Key Skills:** Frontend Development, Backend Development, Database Management, Interactive UI
-
-### 3. [Algorithm Visualizer – Interactive Algorithm Learning and Animation Platform](https://github.com/KEERTHIGA-TS/Algorithm-Visualizer.git)
-Visualizes sorting and pathfinding algorithms with **step-by-step animations** and a **replay feature** for logged-in users.  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication  
-**Key Skills:** React.js, JavaScript, Node.js, Express.js, MongoDB, JWT, Interactive Animations, Dynamic Dashboard
 
 ---
 
