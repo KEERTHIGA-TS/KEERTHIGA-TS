@@ -18,7 +18,7 @@ I'm **Keerthiga TS**, a passionate full-stack web developer with hands-on experi
 
 ## 📂 Projects
 
-### 1. [Campus Connect – Full-Stack Campus Social Media Platform](https://github.com/KEERTHIGA-TS/campus-connect.git)
+### 1. [Campus Connect – Dockerized Full-Stack Campus Community Platform](https://github.com/KEERTHIGA-TS/campus-connect.git)
 A social media platform for college communities featuring **posts, file uploads, likes, comments, and user profiles** with JWT-secured authentication.  
 **Tech Stack:** React.js, Vite, Tailwind CSS, Spring Boot, PostgreSQL, Docker, Docker Compose, Nginx  
 **Key Skills:** React.js, Spring Boot, PostgreSQL, Docker, JWT, REST APIs, Full-Stack Development
